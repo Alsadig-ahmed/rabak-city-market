@@ -1,5 +1,5 @@
 <ul>
-    <li><a href="/"> عن مدينة ربك  </a></li>
+    <li><a href="/about"> عن مدينة ربك  </a></li>
     <li><a href="/RealState"> سوق العقارات </a></li>
     <li><a href="/"> سوق السلع  </a></li>
     <li><a href="/"> الجمعيات التعاونية  </a></li>
