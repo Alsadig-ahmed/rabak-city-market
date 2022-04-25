@@ -5,9 +5,9 @@ import adapter from '@sveltejs/adapter-auto';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	// preprocess: preprocess({
-	// 	// ...svelte-preprocess options
-	// }),
+	preprocess: preprocess({
+		// ...svelte-preprocess options
+	}),
 	kit: {
 		adapter: adapter()
 		// adapter: adapter({
