@@ -2,8 +2,9 @@
 </script>
 
 <section>
+	<img class="shoppers-img" src="../../src/bags-imgs/shoppers-img.png" alt="اشخاص يتسوقون" />
 	<ul>
-		<li><a href="/goods/bags"> متجر الشنط </a></li>
+		<li><a href="/goods/bags"> متجر الشنط  <i class="shopping-bag"></i></a></li>
 		<li><a href="/goods/chitchenware"> متجر الاواني المنزلية </a></li>
 		<li><a href="/goods/shoes"> متجر الاحزية </a></li>
 		<li><a href="/goods/clothes"> متجر الملابس </a></li>
@@ -15,6 +16,18 @@
 	<li><a href="/"> المعالم السيا حية </a></li>
 </ul> -->
 <style lang="scss">
+	.shopping-bag{
+		display: inline-block;
+		padding: 1.3rem;
+		background-image: url("../../src/bags-imgs/shopping-bag.png");
+		background-position: center;
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+	
+	.shoppers-img {
+		width: 50%;
+	}
 	section {
 		text-align: center;
 		font-size: 2rem;
