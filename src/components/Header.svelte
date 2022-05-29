@@ -1,3 +1,3 @@
 <svelte:head>
-    <title> مدينة ربك </title>
+	<title>مدينة ربك</title>
 </svelte:head>

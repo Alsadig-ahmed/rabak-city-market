@@ -1,11 +1,11 @@
 <script>
-import Header from "$lib/Header.svelte"
-import Nav from "$lib/Nav.svelte";
+	import Header from '$lib/Header.svelte';
+	import Nav from '$lib/Nav.svelte';
 </script>
 
 <svelte:head>
-    <title>سوق ربك</title>
+	<title>سوق ربك</title>
 </svelte:head>
-<Nav  />
+<Nav />
 <Header />
-<slot></slot>
+<slot />
