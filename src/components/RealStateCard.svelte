@@ -1,18 +1,19 @@
 <script>
-	import { RealStates } from '../store';
+export let Image ='';
+export let landOwner ='';
+export let location ='';
+export let description ='';
 </script>
 
 <section>
-	{#each $RealStates as land}
 		<div class="flex card">
-			<h2 class="img">صورة {land.Image}</h2>
+			<h2 class="img">صورة {Image}</h2>
 			<div class="">
-				<p>المالك : {land.landOwner}</p>
-				<h2>وصف لقطعة الارض : {land.discription}</h2>
-				<h2>الموقع : {land.location}</h2>
+				<p>المالك : {landOwner}</p>
+				<h2>وصف لقطعة الارض : {description}</h2>
+				<h2>الموقع : {location}</h2>
 			</div>
 		</div>
-	{/each}
 </section>
 
 <style>
