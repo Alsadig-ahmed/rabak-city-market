@@ -2,8 +2,6 @@
 	<li><a href="/about"> عن مدينة ربك </a></li>
 	<li><a href="/RealState"> سوق العقارات </a></li>
 	<li><a href="/goods"> سوق السلع </a></li>
-	<li><a href="/"> الجمعيات التعاونية </a></li>
-	<li><a href="/"> المعالم السيا حية </a></li>
 </ul>
 
 <style lang="scss">
