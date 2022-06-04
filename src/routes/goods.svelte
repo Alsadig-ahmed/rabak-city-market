@@ -2,7 +2,7 @@
 </script>
 
 <section>
-	<img class="shoppers-img" src="../../src/bags-imgs/shoppers-img.png" alt="اشخاص يتسوقون" />
+	<img class="shoppers-img" src="/bags-imgs/shoppers-img.png" alt="اشخاص يتسوقون" />
 	<ul>
 		<li><a href="/goods/bags"> متجر الشنط  <i class="shopping-bag"></i></a></li>
 		<li><a href="/goods/chitchenware"> متجر الاواني المنزلية </a></li>
