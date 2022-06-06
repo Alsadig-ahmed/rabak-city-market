@@ -1,6 +1,7 @@
 <ul>
 	<li><a href="/goods"> سوق السلع </a></li>
 	<li><a href="/RealState"> سوق العقارات </a></li>
+	<li><a href="/jops">وظائف  </a></li>
 	<li><a href="/about"> عن سوق ربك الالكتروني </a></li>
 </ul>
 
