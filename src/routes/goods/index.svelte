@@ -7,6 +7,7 @@
 		<li><a href="/goods/bags"> متجر الشنط  <i class="shopping-bag"></i></a></li>
 		<li><a href="/goods/chitchenware"> متجر الاواني المنزلية </a></li>
 		<li><a href="/goods/shoes"> متجر الاحزية </a></li>
+		<li><a href="/goods/phones"> متجر الهواتف </a></li>
 		<li><a href="/goods/clothes"> متجر الملابس </a></li>
 	</ul>
 </section>
