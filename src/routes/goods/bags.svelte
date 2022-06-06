@@ -3,9 +3,7 @@
 	import { bags } from '../../bags-store';
 </script>
 
-<h2>hi there</h2>
-
-<div class="bags">
+<div class="bags container">
 	{#each $bags as bag}
 		<Bag description={bag.description} price={bag.price} img={bag.Image} />
 	{/each}
@@ -20,5 +18,10 @@
 	.bags {
 		display: grid;
 		/* grid-template-columns: 50% 50%; */
+	}
+	.container {
+		max-width: 460px;
+		margin: auto;
+		text-align: center;
 	}
 </style>
