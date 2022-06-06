@@ -3,8 +3,8 @@
 
 <section>
 	<ul>
-		<li><a href="/RealStates/buy-sell"> بيع وشراء اراضي </a></li>
-		<li><a href="/RealStates/rent"> إيجار </a></li>
+		<li><a href="/RealState/buy-sell"> بيع وشراء اراضي </a></li>
+		<li><a href="/RealState/rent"> إيجار </a></li>
 	</ul>
 </section>
 
