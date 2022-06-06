@@ -18,10 +18,10 @@
 		<div id="info">
 			<h3>
 				{#if infostutus}
-					<h3><slot name="price" /> {price}</h3>
+					<h3><slot name="price" /> سعر الحقيبة :  {price} جنية</h3>
 					<h3><slot name="delivery" /></h3>
-					<p>رقم الهاتف :0963003102</p>
-					<p>رقم حساب بنكك : 2723330</p>
+					<!-- <p>رقم الهاتف :0963003102</p>
+					<p>رقم حساب بنكك : 2723330</p> -->
 				{/if}
 			</h3>
 		</div>
