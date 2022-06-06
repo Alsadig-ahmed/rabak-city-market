@@ -6,6 +6,6 @@
 <svelte:head>
 	<title>سوق ربك</title>
 </svelte:head>
-<Nav />
 <Header />
+<Nav />
 <slot />
