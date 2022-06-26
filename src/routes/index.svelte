@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<section>مرجبا بكم في مدينة ربك</section>
+<section> مرجبا!! بكم في مدينة ربك</section>
 
 <style>
 	section {
